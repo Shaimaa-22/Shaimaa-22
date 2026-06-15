@@ -5,44 +5,35 @@ Computer Engineering Graduate • Full-Stack Developer • Flutter Developer
 </p>
 
 <p align="center">
-Building intelligent web applications, AI-powered platforms, and IoT systems.
+Building AI-powered applications, scalable web platforms, and IoT systems.
 </p>
 
 ---
 
-## About
+## About Me
 
-I am a Computer Engineering graduate passionate about building modern software solutions that combine web technologies, artificial intelligence, mobile development, and IoT systems.
+Computer Engineering graduate with experience in full-stack web development, mobile applications, artificial intelligence, and IoT systems.
 
-My work focuses on transforming ideas into practical products through clean architecture, scalable backend systems, and intuitive user experiences.
+I enjoy building products that combine software and hardware to solve real-world problems through modern technologies, clean architecture, and user-focused design.
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-
 React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
 
 **Backend**
-
-Node.js • Express.js • REST APIs • JWT Authentication
+Node.js • Express.js • REST APIs • JWT
 
 **Database**
-
 PostgreSQL • Firebase • Firestore
 
 **Mobile**
-
 Flutter • Dart
 
 **AI & IoT**
-
 OpenAI • ESP32 • MQTT • Arduino
-
-**Tools**
-
-Git • GitHub • VS Code • Vercel • Render
 
 ---
 
@@ -50,53 +41,47 @@ Git • GitHub • VS Code • Vercel • Render
 
 ### Pizza Go
 
-An end-to-end smart pizza ordering and automated preparation system integrating web technologies, payment processing, databases, MQTT communication, and ESP32-controlled hardware automation.
+Smart pizza ordering and automated preparation system integrating payment processing, databases, MQTT communication, and ESP32-based automation.
 
-**Stack:** React • Node.js • PostgreSQL • Stripe • MQTT • ESP32
-
----
+**React • Node.js • PostgreSQL • Stripe • MQTT • ESP32**
 
 ### Ideas Tracker
 
-An AI-powered platform that helps users capture, organize, enhance, and share ideas through voice input, mind maps, community collaboration, and intelligent content generation.
+AI-powered platform for capturing, organizing, enhancing, and sharing ideas using voice input, intelligent assistance, and community collaboration.
 
-**Stack:** JavaScript • Firebase • OpenAI • Web Speech API
-
----
+**JavaScript • Firebase • OpenAI**
 
 ### Time Capsule
 
-A Flutter application that enables users to create digital time capsules containing memories, messages, and files that automatically unlock at future dates.
+Mobile application for creating digital memories and messages that unlock at future dates.
 
-**Stack:** Flutter • Dart • PostgreSQL • MVVM
-
----
+**Flutter • PostgreSQL • MVVM**
 
 ### Where Should I Go?
 
-A mood-based recommendation platform that suggests destinations and activities based on user preferences and emotional state.
+Mood-based recommendation platform that suggests destinations and activities based on user preferences.
 
-**Stack:** HTML • CSS • JavaScript
-
----
-
-## Current Focus
-
-* Full-Stack Web Development
-* AI-Powered Applications
-* Flutter Mobile Development
-* IoT and Embedded Systems
-* Software Architecture & System Design
+**HTML • CSS • JavaScript**
 
 ---
 
-## Links
+## Current Interests
 
-Portfolio
+* Full-Stack Development
+* Artificial Intelligence
+* Flutter Applications
+* IoT Systems
+* Software Architecture
+
+---
+
+## Contact
+
+**Portfolio**
 https://shaimaa-22.github.io/my_portfolio/
 
-GitHub
+**GitHub**
 https://github.com/Shaimaa-22
 
-Email
+**Email**
 [shaimaadwedar03@gmail.com](mailto:shaimaadwedar03@gmail.com)
