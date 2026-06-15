@@ -1,16 +1,26 @@
-# Shaimaa Dwedar
+<h1 align="center">Hi, I'm Shaimaa Dwedar</h1>
 
-Computer Engineering Graduate specializing in Full-Stack Development, IoT Systems, and modern web technologies.
+<p align="center">
+Computer Engineering Graduate • Full-Stack Developer • IoT & AI Enthusiast
+</p>
+
+<p align="center">
+Building web applications, IoT systems, and real-world software solutions.
+</p>
+
+---
 
 ## About Me
 
 - Computer Engineering Graduate
-- Full-Stack Developer
+- Full-Stack Developer specializing in React and Node.js
 - Flutter Developer
-- Interested in Artificial Intelligence and IoT
-- Passionate about building practical software solutions that combine web technologies with hardware systems
+- Interested in Artificial Intelligence and IoT Systems
+- Experienced in building complete systems from frontend to hardware integration
 
-## Technologies
+---
+
+## Technologies & Tools
 
 ### Frontend
 React • Next.js • JavaScript • HTML • CSS • Tailwind CSS
@@ -29,29 +39,35 @@ ESP32 • MQTT • Arduino
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Pizza Go
+## Pizza Go
 
-Graduation project that integrates a web platform, payment processing, database management, MQTT communication, and ESP32-controlled automation to create a complete smart pizza ordering and preparation system.
+Graduation project that combines web development, payment processing, databases, MQTT communication, and ESP32-controlled automation to create a complete smart pizza ordering and preparation system.
 
-**Technologies:** React, Node.js, PostgreSQL, Stripe, MQTT, ESP32
+**Technologies:** React • Node.js • PostgreSQL • Stripe • MQTT • ESP32
 
-### Where Should I Go?
+---
 
-A web application that recommends destinations and activities based on user mood and preferences.
+## Where Should I Go?
 
-**Technologies:** HTML, CSS, JavaScript
+A mood-based recommendation platform that suggests destinations and activities according to user preferences.
 
-### Ideas Tracker
+**Technologies:** HTML • CSS • JavaScript
 
-A platform for capturing, organizing, and enhancing ideas using intelligent features and community interaction.
+---
+
+## Ideas Tracker
+
+A platform for capturing, organizing, improving, and sharing ideas using AI-powered features.
 
 **Technologies:** JavaScript
 
-### Portfolio Website
+---
 
-Personal portfolio showcasing projects, skills, and experience.
+## Portfolio Website
+
+Showcases projects, skills, and professional experience.
 
 Portfolio:
 https://shaimaa-22.github.io/my_portfolio/
@@ -60,8 +76,8 @@ https://shaimaa-22.github.io/my_portfolio/
 
 ## Contact
 
-Email: shaimaadwedar03@gmail.com
+📧 shaimaadwedar03@gmail.com
 
-GitHub: https://github.com/Shaimaa-22
+💻 GitHub: https://github.com/Shaimaa-22
 
-Portfolio: https://shaimaa-22.github.io/my_portfolio/
+🌐 Portfolio: https://shaimaa-22.github.io/my_portfolio/
