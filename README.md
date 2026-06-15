@@ -1,83 +1,102 @@
-<h1 align="center">Hi, I'm Shaimaa Dwedar</h1>
+<h1 align="center">Shaimaa Dwedar</h1>
 
 <p align="center">
-Computer Engineering Graduate • Full-Stack Developer • IoT & AI Enthusiast
+Computer Engineering Graduate • Full-Stack Developer • Flutter Developer
 </p>
 
 <p align="center">
-Building web applications, IoT systems, and real-world software solutions.
+Building intelligent web applications, AI-powered platforms, and IoT systems.
 </p>
 
 ---
 
-## About Me
+## About
 
-- Computer Engineering Graduate
-- Full-Stack Developer specializing in React and Node.js
-- Flutter Developer
-- Interested in Artificial Intelligence and IoT Systems
-- Experienced in building complete systems from frontend to hardware integration
+I am a Computer Engineering graduate passionate about building modern software solutions that combine web technologies, artificial intelligence, mobile development, and IoT systems.
+
+My work focuses on transforming ideas into practical products through clean architecture, scalable backend systems, and intuitive user experiences.
 
 ---
 
-## Technologies & Tools
+## Tech Stack
 
-### Frontend
-React • Next.js • JavaScript • HTML • CSS • Tailwind CSS
+**Frontend**
 
-### Backend
-Node.js • Express.js • REST APIs
+React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
 
-### Database
-PostgreSQL • Firebase
+**Backend**
 
-### Mobile
-Flutter
+Node.js • Express.js • REST APIs • JWT Authentication
 
-### IoT & Hardware
-ESP32 • MQTT • Arduino
+**Database**
 
----
+PostgreSQL • Firebase • Firestore
 
-# Featured Projects
+**Mobile**
 
-## Pizza Go
+Flutter • Dart
 
-Graduation project that combines web development, payment processing, databases, MQTT communication, and ESP32-controlled automation to create a complete smart pizza ordering and preparation system.
+**AI & IoT**
 
-**Technologies:** React • Node.js • PostgreSQL • Stripe • MQTT • ESP32
+OpenAI • ESP32 • MQTT • Arduino
 
----
+**Tools**
 
-## Where Should I Go?
-
-A mood-based recommendation platform that suggests destinations and activities according to user preferences.
-
-**Technologies:** HTML • CSS • JavaScript
+Git • GitHub • VS Code • Vercel • Render
 
 ---
 
-## Ideas Tracker
+## Featured Projects
 
-A platform for capturing, organizing, improving, and sharing ideas using AI-powered features.
+### Pizza Go
 
-**Technologies:** JavaScript
+An end-to-end smart pizza ordering and automated preparation system integrating web technologies, payment processing, databases, MQTT communication, and ESP32-controlled hardware automation.
+
+**Stack:** React • Node.js • PostgreSQL • Stripe • MQTT • ESP32
 
 ---
 
-## Portfolio Website
+### Ideas Tracker
 
-Showcases projects, skills, and professional experience.
+An AI-powered platform that helps users capture, organize, enhance, and share ideas through voice input, mind maps, community collaboration, and intelligent content generation.
 
-Portfolio:
+**Stack:** JavaScript • Firebase • OpenAI • Web Speech API
+
+---
+
+### Time Capsule
+
+A Flutter application that enables users to create digital time capsules containing memories, messages, and files that automatically unlock at future dates.
+
+**Stack:** Flutter • Dart • PostgreSQL • MVVM
+
+---
+
+### Where Should I Go?
+
+A mood-based recommendation platform that suggests destinations and activities based on user preferences and emotional state.
+
+**Stack:** HTML • CSS • JavaScript
+
+---
+
+## Current Focus
+
+* Full-Stack Web Development
+* AI-Powered Applications
+* Flutter Mobile Development
+* IoT and Embedded Systems
+* Software Architecture & System Design
+
+---
+
+## Links
+
+Portfolio
 https://shaimaa-22.github.io/my_portfolio/
 
----
+GitHub
+https://github.com/Shaimaa-22
 
-## Contact
-
-📧 shaimaadwedar03@gmail.com
-
-💻 GitHub: https://github.com/Shaimaa-22
-
-🌐 Portfolio: https://shaimaa-22.github.io/my_portfolio/
+Email
+[shaimaadwedar03@gmail.com](mailto:shaimaadwedar03@gmail.com)
